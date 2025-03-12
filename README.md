@@ -18,15 +18,6 @@ Database: MySQL
 
 Security: Password hashing (bcrypt)
 
-📂 Project Structure
-
-Login-System/
-│── app.py          # Main Flask application
-│── config.py       # Configuration settings
-│── templates/      # HTML templates (Login, Register, Dashboard, etc.)
-│── static/         # CSS & JS files
-│── database.sql    # MySQL database schema
-│── requirements.txt # Dependencies
 
 🛠️ Setup & Installation
 
